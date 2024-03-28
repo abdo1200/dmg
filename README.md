@@ -11,10 +11,10 @@ every marker in service markers are clickable that it shows the info widget when
 the name search shows to you list of suggestion you can click on any item to go to this location
 
 after find you location you can:
-1- get the directions from you location
+1- get the directions from your location
 2- save the place
 
-you can fined the saved location in the bottom of screen when you have saved loaction it's automaticly apper on slider mode
+you can fined the saved location in the bottom of screen when you have saved loaction it's automaticly appear on slider mode
 if you close the location it will navigate you to static page that asks you to reopen it
 ![open_location](https://github.com/abdo1200/dmg/assets/50383579/56c3bb21-e5f4-457e-a91a-03b05c89bbe2)
 
